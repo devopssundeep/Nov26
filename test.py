@@ -5,3 +5,5 @@ print ("thursday")
 2row friday
 moon
 star
+name = "jaisree"
+print (name)
